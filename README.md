@@ -15,6 +15,15 @@ def myfunction(x,y):
 
 Some content
 
+1. Step 1
+2. Step 2
+3. Step 3
+
+List 
+- apples
+- oranges
+- pears
+
 ### Subinstuctions
 
 Subinstruction content
