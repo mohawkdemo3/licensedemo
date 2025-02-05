@@ -9,6 +9,8 @@ def myfunction(x,y):
   return x + y
 ```
 
+![a cat image](https://www.bestpets.co/wp-content/uploads/2017/08/e38767b2d4005b865e1854c265e9ab7e.jpg)
+
 ## Instructions
 
 Some content
